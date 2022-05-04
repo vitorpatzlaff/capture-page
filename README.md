@@ -1,4 +1,4 @@
-# [Capture Page](https://vitorpatzlaff-capture_page.netlify.app)
+# [Capture Page](https://vitorpatzlaff-capture-page.netlify.app)
 ### English
 The main idea of this simple project is to show the html form, so there is the presentation with an example text, the images, and, of course, the form part. When you enter your data and click the button ```SUBSCRIBE!```, it will send this data to my MailChimp account, so I can send an email to all the subscribed emails.
 ##### Project Language: English
